@@ -11,11 +11,7 @@ Spring Boot Media is a REST API built with Spring Boot, Java 21, and MariaDB. Th
 
 - Java 21
 - Spring Boot 3.2.x
-- Spring Web
-- Spring Data JDBC
-- Spring Validation
 - MariaDB
-- springdoc-openapi
 
 ## Features
 
